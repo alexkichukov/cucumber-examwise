@@ -16,7 +16,7 @@ import models.Exam;
 import models.SolutionAnswer;
 import services.ExamwiseService;
 
-public class QuestionSteps {
+public class StepDefinitions {
 	private String questionType;
 	private String questionName;
 	private String description;
